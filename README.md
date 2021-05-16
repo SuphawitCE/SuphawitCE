@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuphawitCE
 - 👀 I’m interested in Technology especially a web development, Competitive Programming. 
-- 🌱 I’m currently learning Node.js, Experss.js I want to become a Full Stack in the future.
+- 🌱 I’m currently learning Node.js, Experss.js and others Backend technologies I want to become a Full Stack in the future.
 - 📫 How to reach me <a href='mailto:suphawith-j@rmutp.ac.th'>:email:<a/>
 
 <!---
