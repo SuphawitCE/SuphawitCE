@@ -1,4 +1,4 @@
-<a target="blank" href="https://profile-counter.glitch.me/allan690/count.svg"><p align="center">View Count<br><br> <img src="https://profile-counter.glitch.me/SuphawitCE/count.svg" /></a>
+<a target="blank" href="https://profile-counter.glitch.me/SuphawitCE/count.svg"><p align="center">View Count<br><br> <img src="https://profile-counter.glitch.me/SuphawitCE/count.svg" /></a>
 
 
 
