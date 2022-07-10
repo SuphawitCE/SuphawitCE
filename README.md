@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m @SuphawitCE
-- 👀 I’m interested in Technology especially a web development, Competitive Programming. 
+- 👀 I’m interested in Technology especially a Web Development, Node.js and React.js. 
 - 🌱 I’m currently learning AWS and others Backend technologies I want to become a Full Stack in the future.
 - 📫 How to reach me <a href='mailto:suphawith-j@rmutp.ac.th'>:email:<a/>
 - Looking for a job in US and EU
