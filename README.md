@@ -1,12 +1,10 @@
-<a target="blank" href="https://profile-counter.glitch.me/SuphawitCE/count.svg"><p align="center">View Count<br><br> <img src="https://profile-counter.glitch.me/SuphawitCE/count.svg" /></a>
 
 
 
 - 👋 Hi, I’m @SuphawitCE
-- 👀 I’m interested in Technology especially a Web Development, Node.js and React.js. 
-- 🌱 I’m currently learning AWS and others Backend technologies I want to become a Full Stack in the future.
-- 📫 How to reach me <a href='mailto:suphawith-j@rmutp.ac.th'>:email:<a/>
-- Looking for a job in US and EU
+- 👀 I’m interested in Technology, especially Web Development, Node.js, React.js, and Go Programming. 
+- 🌱 I’m currently working on Backend technologies and AWS.
+- 📫 How to reach me <a href='mailto:suphawith.jck@gmail.com'>:email:<a/>
 
 <!---
 SuphawitCE/SuphawitCE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
